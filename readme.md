@@ -13,7 +13,7 @@
 3. [Dataset and Exploratory Data Analysis](#dataset-and-exploratory-data-analysis)
 4. [Preprocessing](#preprocessing)
 5. [Augmentation](#augmentation)
-6. [Anomaly Detection Multi-Class and Multi-Label Prediction](#anomaly-detection-multi-class-and-multi-label-prediction)
+6. [Anomaly Detection, Multi-Class and Multi-Label Prediction](#anomaly-detection-multi-class-and-multi-label-prediction)
 7. [Results and what comes next](#results-and-what-comes-next)
 8. [References](#references)
 <br>
