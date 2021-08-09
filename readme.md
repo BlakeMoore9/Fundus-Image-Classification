@@ -132,7 +132,7 @@ Now, I will go on... and learn some more ;)
 
 
 # References
-Here some of the Books, Papers and Articles I read and Videos I watched in Preparation for my Project and Links to Websites which were very helpful in resolving issues and how-tos.
+Here some of the Books, Papers and Articles I read and Videos I watched in Preparation for my Project and Links to Websites which were very helpful in resolving issues.
 
 ## Language, Libraries
 https://www.python.org/<br>
