@@ -191,10 +191,13 @@ https://www.goodreads.com/book/show/40915762-deep-medicine
 <br>
 
 ## Interesting Talks 
+Deep Learning on Retinal Fundus Images, and Lessons Learned<br>
 https://www.youtube.com/watch?v=ViSfhPE6q6Q&list=PL32IFKvW53Vg-gM2mq-tjF6edBqoTV_ie&index=5
 
+EyeNet Presentation | Detecting Diabetic Retinopathy With Deep Learning<br>
 https://www.youtube.com/watch?v=pMGLFlgqxuY&list=PL32IFKvW53Vg-gM2mq-tjF6edBqoTV_ie&index=3
 
+Building AI models for healthcare (ML Tech Talks)<br>
 https://www.youtube.com/watch?v=UZEstizNxkg&list=PL32IFKvW53Vg-gM2mq-tjF6edBqoTV_ie&index=1
 
 <br>
