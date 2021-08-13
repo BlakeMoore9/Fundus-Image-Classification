@@ -144,6 +144,9 @@ https://matplotlib.org/<br>
 https://pandas.pydata.org/<br>
 https://keras.io/api/preprocessing/image/<br>
 
+## More interesting links
+https://www.nature.com/articles/s41598-021-89743-x?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+srep%2Frss%2Fcurrent+%28Scientific+Reports%29
+
 
 ## Sources for descriptions of Diseases
 https://biomedical-engineering-online.biomedcentral.com<br>
